@@ -1,0 +1,11 @@
+flask==3.0.0
+azure-search-documents==11.4.0
+azure-storage-blob==12.19.0
+azure-ai-formrecognizer==3.3.0
+python-dotenv==1.0.0
+azure-identity==1.15.0
+transformers==4.36.0
+python-magic==0.4.27
+azure-mgmt-search==9.0.0
+azure-mgmt-storage==21.0.0
+azure-mgmt-resource==23.0.1
